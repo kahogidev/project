@@ -49,7 +49,7 @@
 <div class="ot-menu-wrapper">
     <div class="ot-menu-area text-center">
         <button class="ot-menu-toggle"><i class="fal fa-times"></i></button>
-        <div class="mobile-logo"><a href=""><img src="/frontend-files/img/logo.svg" alt="Travon"></a></div>
+        <div class="mobile-logo"><a href=""><img style="width: 50px!important;" src="/frontend-files/img/logo.png" alt="Travon"></a></div>
     </div>
 </div>
 <header class="ot-header header-layout1">
@@ -85,7 +85,7 @@
             <div class="container">
                 <div class="row align-items-center justify-content-between">
                     <div class="col-auto">
-                        <div class="header-logo"><a href=""><img src="/frontend-files/img/logo.svg" alt="Travon"></a></div>
+                        <div class="header-logo"><a href=""><img style="width: 100px!important;" src="/frontend-files/img/logo.png" alt="Travon"></a></div>
                     </div>
                     <div class="col-auto">
                         <nav class="main-menu d-none d-lg-inline-block">

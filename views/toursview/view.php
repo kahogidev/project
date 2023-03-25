@@ -105,6 +105,6 @@
         <h1 style="font-size: 22px">Narxi: <?=$model->price?> UZS</h1>
         <p><?=$model['body_'.Yii::$app->language]?></p>
 <!--        <button><a href="https://payme.uz/fallback/merchant/?id=62a0a872aa40a686d47cf910" class="btn" target="_blank">online to'lov qilish <i class="fas fa-angle-right"></i></a></button>-->
-        <button><a href="https://payme.uz/fallback/merchant/?id=641310e86a689d2b4b9589fe" class="btn" target="_blank">online to'lov qilish <i class="fas fa-angle-right"></i></a></button>
+        <button><a href="https://payme.uz/fallback/merchant/?id=641bf33b6a689d2b4b958d6d" class="btn" target="_blank">online to'lov qilish <i class="fas fa-angle-right"></i></a></button>
     </div>
 </section>

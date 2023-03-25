@@ -5,7 +5,6 @@
                 <div class="col-md-6 col-xl-3">
                     <div class="widget footer-widget">
                         <div class="ot-widget-about">
-                            <div class="about-logo"><a href="/"><img src="/frontend-files/img/logo-white.svg" alt="Travon"></a></div>
                             <p class="about-text"><?= Yii::t("app", "about1")?></p>
                         </div>
                     </div>
